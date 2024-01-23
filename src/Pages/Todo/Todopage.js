@@ -137,7 +137,7 @@ function Todopage() {
           </div>
         </div>
 
-        <div className="column">
+        <div className="column1">
           <div>
             <div className="todolist">
               <h2>TODO LIST</h2>

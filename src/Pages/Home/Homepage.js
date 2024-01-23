@@ -50,7 +50,7 @@ function Homepage() {
     <div className="row">
   <div className="column ">
     <h3 className='login_title'>LOGIN</h3>
-    <p className='login_para'>Lorem ipsum dolor sit amet, consectetur  adipisicing elit. Perferendis <br></br> enim cumqueaccusantium sunt esse incidunt voluptatem  natus, <br></br> error pariatur, commodi facere  repudiandae suscipit <br></br>
+    <p className='login_para'>Lorem ipsum dolor sit amet, consectetur  adipisicing elit. Perferendis  enim cumqueaccusantium sunt esse incidunt voluptatem   natus,  error pariatur, commodi facere  repudiandae suscipit
      dolorem delectus beatae recusandae itaque repellat ea.</p>
      {/*  */}
            {!isLoggedIn &&
