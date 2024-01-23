@@ -20,7 +20,7 @@ list.
   FRONTEND - REACT JS
   STYLE - REACT-Bootstrap, html,css,react-icons
 
-  
+  Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
  ## Preview 
  
