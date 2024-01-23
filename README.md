@@ -1,11 +1,31 @@
-# Getting Started with Create React App
+# TODO_APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Overview:
+Created a simple web application where the authenticated user can add todo task lists.
+
+Tasks/Use cases:
+1. The website/WebApp will have the option to Sign Up/Login via google SSO (Use
+firebase for Authentication)
+2. The user will be shown a dashboard where he can add todo tasks or view existing todo
+lists from Firebase database
+3. Users can  remove a particular task from the todo
+list.
+4. User can update particular task from a list of todo
+
+
+  ## Technical
+  DEV Tool - create-react-app
+  BACKEND - Firebase
+  FRONTEND - REACT JS
+  STYLE - REACT-Bootstrap, html,css,react-icons
+
+
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can install and run:
 
+### `npx create-react-app`
 ### `npm start`
 
 Runs the app in the development mode.\
