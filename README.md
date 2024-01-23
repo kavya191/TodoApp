@@ -11,6 +11,7 @@ lists from Firebase database
 3. Users can  remove a particular task from the todo
 list.
 4. User can update particular task from a list of todo
+5. App is Responsive in All Devices
 
 
   ## Technical
@@ -29,6 +30,9 @@ list.
 ![update Delete](https://github.com/kavya191/TodoApp/assets/71579004/061f5e01-7f9b-44fe-8e20-034ded614437)
 ![Homepage](https://github.com/kavya191/TodoApp/assets/71579004/b69b52b6-ffd3-45ff-abae-117500332295)
 
+![Responsive](https://github.com/kavya191/TodoApp/assets/71579004/ca6d5a83-13fa-42b5-9e76-3cca131a5618)
+![responsive1](https://github.com/kavya191/TodoApp/assets/71579004/1ff55a20-d90f-4770-b128-47173d97aef8)
+![Screenshot (19)](https://github.com/kavya191/TodoApp/assets/71579004/0e79f0c5-2d14-43fd-9cce-1359a3aa15fc)
 
 ## Available Scripts
 
