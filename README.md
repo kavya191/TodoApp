@@ -19,6 +19,15 @@ list.
   FRONTEND - REACT JS
   STYLE - REACT-Bootstrap, html,css,react-icons
 
+  
+
+ ## Preview 
+ 
+![SIgnup with google](https://github.com/kavya191/TodoApp/assets/71579004/d68aefab-2739-4f8c-8640-c4cd51ecacc5)
+
+![signin Redirection](https://github.com/kavya191/TodoApp/assets/71579004/17825cad-bc5d-4e95-a7c3-18341a425971)
+![update Delete](https://github.com/kavya191/TodoApp/assets/71579004/061f5e01-7f9b-44fe-8e20-034ded614437)
+![Homepage](https://github.com/kavya191/TodoApp/assets/71579004/b69b52b6-ffd3-45ff-abae-117500332295)
 
 
 ## Available Scripts
